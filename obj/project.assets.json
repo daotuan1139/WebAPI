@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\NashTech\\New\\New.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\NashTech\\WebAPI\\New.csproj",
       "projectName": "New",
-      "projectPath": "C:\\Users\\admin\\Desktop\\NashTech\\New\\New.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\NashTech\\WebAPI\\New.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\NashTech\\New\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\NashTech\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
